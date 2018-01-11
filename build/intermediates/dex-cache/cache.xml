@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\my pc\AndroidStudioProjects\DelhiBusNavigator\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="C:\Users\my pc\AndroidStudioProjects\DelhiBusNavigator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.0_b991bc164bc58963c3538743386b2daf47f6888a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\my pc\AndroidStudioProjects\DelhiBusNavigator\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ee2fe40610f8adf2fc77af2fb9dccaa85c0874ef">
+        <dex dex="C:\Users\my pc\AndroidStudioProjects\DelhiBusNavigator\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_916384bbff64562d85f238c41b6f175f09bfe635\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\my pc\AndroidStudioProjects\DelhiBusNavigator\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="C:\Users\my pc\AndroidStudioProjects\DelhiBusNavigator\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.0_4541213a9923aa61bc80c5782477ebcbaff91a2e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="C:\Users\my pc\AndroidStudioProjects\DelhiBusNavigator\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.0_24c46cbde714be0842274322039416f341dd73a0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\my pc\AndroidStudioProjects\DelhiBusNavigator\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d803ab676fe9130fd1bf59351b14f0b7216f9f41">
+        <dex dex="C:\Users\my pc\AndroidStudioProjects\DelhiBusNavigator\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_beb197249dd64ae25de20aea3acb63d15dd45545\classes.dex" />
+    </item>
+
+</items>
